@@ -126,3 +126,30 @@ You can or join me and the other users on
 1. Clone the repo
 2. `npm install`
 3. `npm start` to being development
+
+## How Can I Become A Contributor
+* Keep in mind if you are want to bring up suggestions for improvements and not adding those improvements, please join our discord and
+contribute that information there!
+
+1. Follow the Development steps
+    - Clone the repo
+    - `npm install`
+    - `npm start` to being development
+2. Before submitting to the main project, makesure to test your code. 
+    - Create unit tests (blackbox tests, whitebox tests, etc)
+    - It is important to know that the main programming language for this Vodon Pro is TypeScript (aka JavaScript however with some additional
+    features from Microsoft)
+3. Fixing an issue/contributing new updates by going to the top of the repository and clicking: "Pull Requests"
+4. Select the branch you are choosing to make the pull request to. You must give the following information:
+    - Add a title that is clear about main purpose of change
+    - Description goes into detail about what the thought process of the change and the steps to where the issue is or where the additional
+    feature is being added to in the existing code
+5. Wait for feedback from the main project contributors.
+6. Address the feedback given and push the change to your current pull request. 
+7. Once the chances are approved byt the main project contributors, it will be merged into VodonPro software project.
+
+
+
+
+
+
